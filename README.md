@@ -3,7 +3,7 @@ Task: Building a File Management API
 a simple file management API using Node.js. The API should allow users to upload, list, and delete files. Additionally, implement file categorization functionality.
 
 INSTALLATION
-
+(node_modules are included but if any module missing add it by below command)
 npm install dotenv
 npm install express
 npm i multer
